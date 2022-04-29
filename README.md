@@ -1,6 +1,8 @@
 ### Hey, I'm S4NTA. An avid learner and researcher :)
 
 
+![](https://github.com/S4NTADAY/S4NTADAY/blob/main/cyber.gif)
+
 ## Game Breaker
 - Learning to break the game since 1995
 - Learning reverse engineering and malware analysis
