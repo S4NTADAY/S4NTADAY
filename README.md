@@ -3,14 +3,9 @@
 
 ## Game Breaker
 - Learning to break the game since 1995
-### Amount of people who view my work ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DefaultO.DefaultO)
+### Amount of people who view my work ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 - Learning reverse engineering and malware analysis
 ![Status](https://github-readme-stats.vercel.app/api?username=S4NTA&show_icons=true&hide_border=true&count_private=true&theme=buefy)
-
-
-
-
-# - Be kind and drop a follow :) -
 
 
 <h2 align="center">Contact</h2>
