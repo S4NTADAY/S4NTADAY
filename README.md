@@ -1,8 +1,5 @@
 
-###
-<p align="center">
-    Hey, I'm S4NTA. An avid learner and researcher :)
-</p>
+<h1 align="center">Hey, I'm S4NTA. An avid learner and researcher :)</h1>
 
 
 
