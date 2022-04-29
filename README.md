@@ -8,7 +8,7 @@
 ![Status](https://github-readme-stats.vercel.app/api?username=S4NTA&show_icons=true&hide_border=true&count_private=true&theme=buefy)
 
 
-<!--- f
+
 
 # - Be kind and drop a follow :) -
 
