@@ -1,4 +1,7 @@
-### Hey, I'm S4NTA. An avid learner and researcher :)
+
+<p align="center">
+    ### Hey, I'm S4NTA. An avid learner and researcher :)
+</p>
 
 
 
