@@ -12,6 +12,8 @@
 ## Game Breaker
 - Learning to break the game since 1995
 - Learning reverse engineering and malware analysis
+
+
 ![S4NTA's GitHub stats](https://github-readme-stats.vercel.app/api?username=S4NTA&theme=tokyonight&show_icons=true)
 
 
