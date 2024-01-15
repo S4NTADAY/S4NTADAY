@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, I'm posh. An avid learner and researcher :)</h1>
+<h1 align="center">Hey, I'm Joy Boy (joyboy29) An avid learner and researcher :)</h1>
 
 
 
@@ -9,8 +9,7 @@
 </p>
 
 
-## Game Breaker
-- Learning to break the game since 1995
+## Adventurer
 - Learning reverse engineering and malware analysis
 
 
@@ -20,7 +19,7 @@
 <h2 align="center">Contact</h2>
 <h3 align="center">Suggestions + Advice + Guidance Appreciated </h3>
 <h4 align="center">Reverse engineer + Avid Learner + Software developer</h4>
-<p align="center">posh#1729</p>
+<p align="center">Discord: lrk.</p>
 
 
 </pre><br>
