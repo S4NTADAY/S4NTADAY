@@ -13,7 +13,10 @@
 - Learning reverse engineering and malware analysis
 
 
-![S4NTA's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyboyy29&theme=tokyonight&show_icons=true)
+![JoyBoyy29's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyboyy29&theme=tokyonight&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyboyy29&layout=compact)
+
 
 
 <h2 align="center">Contact</h2>
