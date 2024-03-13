@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, I'm Joy Boy (joyboy29) An avid learner and researcher :)</h1>
+<h1 align="center">Hey, I'm Joy Boy -> An avid learner and researcher :)</h1>
 
 
 
