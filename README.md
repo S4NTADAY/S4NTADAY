@@ -15,7 +15,7 @@
 
 ![JoyBoyy29's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyboyy29&theme=tokyonight&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyboyy29&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyboyy29&theme=radical&border_radius=15&hide_border=true&hide=makefile&langs_count=3&bg_color=00000000)
 
 
 
